@@ -2,7 +2,7 @@
 - 💻 Técnico em informática
 - 👀 Atualmente, interessado em HTML5, CSS3 e JS
 - 🌱 Trabalho com WordPress, marketing e tráfego pago
-- 💞️ Trabalhando para mim mesmo. Por enquanto...
+- 💞️ Trabalhando para mim mesmo, com o intuito de <br>acabar com a concorrência de uma "empresa" em específico...
 - 📫 Estudando front-end e formas de sair do país
 - 😃 Pronomes: aca/demia
 
